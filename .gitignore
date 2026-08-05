@@ -1,0 +1,15 @@
+# Data files
+data/
+
+# Zip files
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
